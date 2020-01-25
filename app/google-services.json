@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "813264364779",
+    "firebase_url": "https://imagelabeldetector.firebaseio.com",
+    "project_id": "imagelabeldetector",
+    "storage_bucket": "imagelabeldetector.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:813264364779:android:23d05c371be5b875ee4aae",
+        "android_client_info": {
+          "package_name": "com.example.imagelabeldetector"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "813264364779-1lnhkn7p4uo1564ubi156l9k5sfsl18r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.imagelabeldetector",
+            "certificate_hash": "d5629902cfd1c3400c40e7f2cc267ef0cdb9d4a0"
+          }
+        },
+        {
+          "client_id": "813264364779-nsfdjkpicgdf1euevef077u04cbsf0ut.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkS0jnHbjm2Jyqdcm6R7MmnUuYbl64A2w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "813264364779-nsfdjkpicgdf1euevef077u04cbsf0ut.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
